@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maximiliano Chan</h1>
-<h3 align="center">Frontend Developer and tech enthusiast from Argentina!</h3>
+
+![Alt text](https://r2.easyimg.io/7a82op9f7/gh_placeholder.png)
+<h3>Frontend Developer and tech enthusiast from Argentina!</h3>
 
 - 🔭 I’m currently working on [Docturno](https://www.docturno.com)
 

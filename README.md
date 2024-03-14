@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Chan</h1>
 <h3 align="center">Frontend Developer and tech enthusiast from Argentina!</h3>
 
-- 🔭 I’m currently working at [Docturno](https://www.docturno.com)
+- 🔭 I’m currently working at [Max Capital](https://www.max.capital/)
 
 - 👨‍💻 All of my projects are available at [https://mchan818.vercel.app/](https://mchan818.vercel.app/)
 
